@@ -14,8 +14,10 @@ Android 6.0 Marshmallow, the newest version, continues with the basic look of Lo
 
 The basics of Android are the same as they've been for years, though. You've got a lock screen that displays notifications, then, once unlocked, you've got an app-centric home screen. And there's an app drawer for storing everything else you've downloaded.
 
-----Advantages of Android----- 
+----Advantages of Android-----
+ 
 Reference: http://crazytechtricks.com/advantages-and-disadvantages-of-android-operating-system/
+
 1.)Android Google Developer
 
 The biggest advantage of the Android is Google. Android operating system is owned by Google. Google is one of the most trusted and reputed product on the internet. The name Google provide lots of trust for the users to buy Android device.
@@ -41,7 +43,9 @@ One can easily get access to their notification of any kind of SMS, emails or ca
 Android operating system has plenty of widgets. This widget makes the user experience much better and helps in doing multitasking. You can add any widget depending upon the feature you want on your home screen. You can see notifications, messages, and much more use without even opening applications.
 
 ---Disadvantages of Android Operating System---
+
 Reference: http://crazytechtricks.com/advantages-and-disadvantages-of-android-operating-system/
+
 
 If Android operating system has a lot of advantages. Then, It surely has several disadvantages. We have done research and found few factor which shows several disadvantages of Android.
 
@@ -111,6 +115,7 @@ Apple iOS
 iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that presently powers many of the company's mobile devices, including the iPhone, iPad, and iPod touch. It is the second most popular mobile operating system globally after Android. iPad tablets are also the second most popular, by sales, against Android since 2013
 
 ---Advantages of iOS---
+
 Reference: http://thetechhacker.com/2015/01/08/advantages-disadvantages-apple-ios/
 
 Performance is awesome
@@ -140,6 +145,7 @@ Developers can design apps because less number of models
 You can un-jailbreak it for warranty
 
 ---Disadvantages of iOS---
+
 Reference: http://thetechhacker.com/2015/01/08/advantages-disadvantages-apple-ios/
 
 Not flexible only supports iOS devices
@@ -277,6 +283,7 @@ Windows OS, computer operating system (OS) developed by Microsoft Corporation to
 
 --Best Features of Windows os--
 Best Features of Windows Operating System
+
 Reference: http://cybercomputing.blogspot.com/2014/08/Features-of-Windows-OS-and-Advantages-and-Disadvantages-of-Windows-OS.html
 
 1.)Speed
@@ -332,6 +339,7 @@ Of course, Windows detractors will tell you that there is more need for software
 The only other major disadvantage of using Windows in the workplace is that over 95% of all viruses and malicious software are written for the Windows OS. This means you have to double-down all security measures if you’re using Microsoft software across the board.
 ________________________________________________________________________________________________________________________________________
 iOS vs Android vs Windows Comparison
+
 Reference: https://blog.udemy.com/ios-vs-android-vs-windows/
 
 1.) iOS
