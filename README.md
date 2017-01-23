@@ -1,10 +1,10 @@
 # CS303_Act1
 
-Android Vs IOS Vs Windows
+Article: Android Vs IOS Vs Windows
 
 Android vs iOS vs Windows Mobile: Design and Interface/Versions/Advantage and Disadvantages
 
--Android and Windows have been powering their platforms like every single day, month, year. They keep
+Brief Info: Android and Windows have been powering their platforms like every single day, month, year. They keep
 upgrading and keep changing their functioanlities unlike IOS that is still the same in terms of platform and design.
 
 1.) Android OS
